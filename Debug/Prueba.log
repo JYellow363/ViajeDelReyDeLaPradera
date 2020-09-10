@@ -1,0 +1,4 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Jimena\Inteligencia Artificial\ViajeDelReyDeLaPradera\Controller.h(40,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Prueba.vcxproj -> C:\Jimena\Inteligencia Artificial\Prueba\Debug\Prueba.exe

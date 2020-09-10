@@ -1,0 +1,5 @@
+C:\Jimena\Inteligencia Artificial\Prueba\Debug\Prueba.exe
+C:\Jimena\Inteligencia Artificial\Prueba\Debug\Prueba.pdb
+C:\Jimena\Inteligencia Artificial\Prueba\Debug\Prueba.vcxprojAssemblyReference.cache
+C:\Jimena\Inteligencia Artificial\Prueba\Debug\Prueba.Form1.resources
+C:\Jimena\Inteligencia Artificial\Prueba\Debug\Prueba.vcxproj.GenerateResource.cache
